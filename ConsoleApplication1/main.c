@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("hello wr]orld!\n");
+    printf("hello world!\n");
     getchar();
 }
 
